@@ -14,6 +14,14 @@
 
 	<name>HAPI FHIR JPA Server</name>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub bbray Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/bbray/hapi-fhir</url>
+		</repository>
+	</distributionManagement>
+
 	<dependencies>
 		<!--
 				<dependency>
