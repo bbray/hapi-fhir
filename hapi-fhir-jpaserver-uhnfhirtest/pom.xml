@@ -169,7 +169,7 @@
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-converter</artifactId>
-			<version>5.4.0-PRE1-SNAPSHOT</version>
+			<version>5.6.1</version>
 		</dependency>
 
 	</dependencies>
@@ -213,15 +213,15 @@
 							<pluginExecutions>
 								<pluginExecution>
 									<pluginExecutionFilter>
-										<groupId></groupId>
-										<artifactId></artifactId>
+										<groupId/>
+										<artifactId/>
 										<versionRange>[0.4,)</versionRange>
 										<goals>
-											<goal></goal>
+											<goal/>
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
